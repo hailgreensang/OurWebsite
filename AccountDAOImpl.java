@@ -10,7 +10,7 @@ import cn.mymoments.domain.Account;
 
 /**
  * @author 柳祺
- * 用户数据库连接实现类
+ * 用户数据库连接接口实现类
  */
 public class AccountDAOImpl extends BaseDAO<Account> implements AccountDAO {
 
